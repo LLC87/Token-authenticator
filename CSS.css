@@ -1,0 +1,19 @@
+h1{
+    color:red;
+    font-size:50px;
+}
+h2{
+    color:#9027f5cc;
+}
+div{
+     width: 500px;
+  margin: 20px auto;
+  padding: 50px;
+  border: solid blue 10px;
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+p{
+    color:#177a0fcc;
+}
